@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_hint">Type a city</string>
+    <string name="search_button">Search</string>
+    <string name="by">By: Gabriel Moody Waworundeng</string>
+
+
+</resources>
